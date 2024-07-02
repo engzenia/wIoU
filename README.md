@@ -5,4 +5,5 @@ Weighted Intersection over Union (wIoU) for Evaluating Image Segmentation [[Pape
 ## Usage
 
 Calculate weighted map - run wIoU/demo_wiou.ipynb
+
 Evaluate wIoU measure - run wIoU/evaluation_wiou.ipynb
