@@ -23,3 +23,8 @@ wIoU/evaluation_wiou.ipynb
 <img src="wiou_v1.0/results/result_weight1.png" width="50%">
 <img src="wiou_v1.0/results/result_weight10.png" width="50%">
 <img src="wiou_v1.0/results/result_weight100.png" width="50%">
+
+
+## Contact
+
+yj.cho@jnu.ac.kr
