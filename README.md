@@ -1,6 +1,6 @@
 ## wIoU (Weighted Intersection over Union)
 
-Weighted Intersection over Union (wIoU) for Evaluating Image Segmentation [[Paper]](https://arxiv.org/abs/2107.09858)
+Weighted Intersection over Union (wIoU) for Evaluating Image Segmentation [[Paper]](https://arxiv.org/abs/2107.09858) [[Project]](https://sites.google.com/view/cvl-jnu/publication/wIoU)
 
 abstract: 
 In recent years, many semantic segmentation methods have been proposed to predict label of pixels in the scene.
